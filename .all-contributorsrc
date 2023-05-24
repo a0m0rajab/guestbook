@@ -31,9 +31,11 @@
         "research",
         "translation",
         "tutorial",
-        "bug"]
+        "bug"
+      ]
     },
-      { "login": "BekahHW",
+    {
+      "login": "BekahHW",
       "name": "BekahHW",
       "avatar_url": "https://avatars.githubusercontent.com/u/34313413?v=4",
       "profile": "https://bekahhw.github.io/",
@@ -84,6 +86,16 @@
         "test",
         "tool",
         "userTesting"
+      ]
+    },
+    {
+      "login": "a0m0rajab",
+      "name": "Abdurrahman Rajab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18273833?v=4",
+      "profile": "https://github.com/a0m0rajab",
+      "contributions": [
+        "a11y",
+        "question"
       ]
     }
   ],
